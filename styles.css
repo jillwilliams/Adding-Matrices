@@ -1,0 +1,58 @@
+body {
+    font-family: "Sniglet", cursive;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    margin: 15px 35px 45px 35px;
+    background-image: linear-gradient(tan, lightyellow);
+    color: brown;
+}
+h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+#input {
+    width: 20%;
+    height: auto;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: "Sniglet", cursive;
+    border: 2px brown solid;
+}
+#demo {
+    width: 20%;
+    height: 40px;
+    color: black;
+    font-size: 1rem;
+    text-align: center;
+    vertical-align: middle;
+    font-family: "Sniglet", cursive;
+    border: 2px brown solid;
+    background-color: white;
+}
+#myBtn {
+    width: 20%;
+    height: auto;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: "Sniglet", cursive;
+    border: 2px brown solid;
+
+}
+#img1 {
+    width: 30%;
+    height: auto;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 2px brown solid;
+}
+#img2, #img3, #img4 {
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 2px brown solid;
+}
+footer {
+    font-size: 1rem;
+    text-align: center;
+}
